@@ -47,10 +47,13 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             Text(
               '$_counter',
+
               style: Theme.of(context).textTheme.headline4,
             ),
             Text('Hello Developers'),
             Text('Hello Flutter team'),
+            Text('Hello Roshan'),
+            Text('Hello Wadekar'),
 
           ],
         ),
